@@ -1,1 +1,2 @@
-# HR-Analysis-
+### HR Analysis
+Tools - SQL ,Power BI
